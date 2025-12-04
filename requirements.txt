@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=1.4
+databases
+asyncpg
+pandas
+pydantic
+python-dotenv
+psycopg2-binary
+coverage
+unittest-xml-reporting
